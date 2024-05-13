@@ -40,9 +40,11 @@ namespace Assignment1_CRUD
                                 Console.WriteLine("View Tasks");
                                 Console.WriteLine("----------");
                                 Console.WriteLine("          ");
-
+                                if (task.Count == 0)
+                                    Console.WriteLine("No task is there");
+                                else
                                 for (int j = 0; j < task.Count; j++)
-                                    Console.WriteLine(task[j]);
+                                    Console.WriteLine($"{j}.{task[j]}");
                                 break;
                             case 3:
                                 Console.WriteLine("Update Task");
@@ -51,10 +53,10 @@ namespace Assignment1_CRUD
                                 int Uindex = Convert.ToInt32(Console.ReadLine());
                                 if (Uindex >= 0 && Uindex < task.Count)
                                 {
-                                    Console.WriteLine("Enter Task To Update");
+                                    Console.WriteLine($"Enter Task To Update:'{task[Uindex]}'");
                                     object updatedTask = Console.ReadLine();
                                     task[Uindex] = updatedTask;
-                                    Console.WriteLine("Task Updated");
+                                    Console.WriteLine($"Task Updated To:'{task[Uindex]}'");
                                 }
                                 else
                                     Console.WriteLine("Enter Correct index");
