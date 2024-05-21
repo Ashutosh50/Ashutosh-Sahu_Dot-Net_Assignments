@@ -1,0 +1,14 @@
+F:\C#.Net\Assignment2_(Inventory)\Assignment2_(Inventory)\bin\Debug\net7.0\Assignment2_(Inventory).exe
+F:\C#.Net\Assignment2_(Inventory)\Assignment2_(Inventory)\bin\Debug\net7.0\Assignment2_(Inventory).deps.json
+F:\C#.Net\Assignment2_(Inventory)\Assignment2_(Inventory)\bin\Debug\net7.0\Assignment2_(Inventory).runtimeconfig.json
+F:\C#.Net\Assignment2_(Inventory)\Assignment2_(Inventory)\bin\Debug\net7.0\Assignment2_(Inventory).dll
+F:\C#.Net\Assignment2_(Inventory)\Assignment2_(Inventory)\bin\Debug\net7.0\Assignment2_(Inventory).pdb
+F:\C#.Net\Assignment2_(Inventory)\Assignment2_(Inventory)\obj\Debug\net7.0\Assignment2_(Inventory).GeneratedMSBuildEditorConfig.editorconfig
+F:\C#.Net\Assignment2_(Inventory)\Assignment2_(Inventory)\obj\Debug\net7.0\Assignment2_(Inventory).AssemblyInfoInputs.cache
+F:\C#.Net\Assignment2_(Inventory)\Assignment2_(Inventory)\obj\Debug\net7.0\Assignment2_(Inventory).AssemblyInfo.cs
+F:\C#.Net\Assignment2_(Inventory)\Assignment2_(Inventory)\obj\Debug\net7.0\Assignment2_(Inventory).csproj.CoreCompileInputs.cache
+F:\C#.Net\Assignment2_(Inventory)\Assignment2_(Inventory)\obj\Debug\net7.0\Assignment2_(Inventory).dll
+F:\C#.Net\Assignment2_(Inventory)\Assignment2_(Inventory)\obj\Debug\net7.0\refint\Assignment2_(Inventory).dll
+F:\C#.Net\Assignment2_(Inventory)\Assignment2_(Inventory)\obj\Debug\net7.0\Assignment2_(Inventory).pdb
+F:\C#.Net\Assignment2_(Inventory)\Assignment2_(Inventory)\obj\Debug\net7.0\Assignment2_(Inventory).genruntimeconfig.cache
+F:\C#.Net\Assignment2_(Inventory)\Assignment2_(Inventory)\obj\Debug\net7.0\ref\Assignment2_(Inventory).dll
