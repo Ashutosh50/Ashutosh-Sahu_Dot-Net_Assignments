@@ -1,0 +1,65 @@
+F:\C#.Net\Assignment_5_(Employee Management System)\Assignment_5_(Employee Management System)\bin\Debug\net8.0\Microsoft.Azure.Cosmos.ServiceInterop.dll
+F:\C#.Net\Assignment_5_(Employee Management System)\Assignment_5_(Employee Management System)\bin\Debug\net8.0\Cosmos.CRTCompat.dll
+F:\C#.Net\Assignment_5_(Employee Management System)\Assignment_5_(Employee Management System)\bin\Debug\net8.0\msvcp140.dll
+F:\C#.Net\Assignment_5_(Employee Management System)\Assignment_5_(Employee Management System)\bin\Debug\net8.0\vcruntime140.dll
+F:\C#.Net\Assignment_5_(Employee Management System)\Assignment_5_(Employee Management System)\bin\Debug\net8.0\vcruntime140_1.dll
+F:\C#.Net\Assignment_5_(Employee Management System)\Assignment_5_(Employee Management System)\bin\Debug\net8.0\appsettings.Development.json
+F:\C#.Net\Assignment_5_(Employee Management System)\Assignment_5_(Employee Management System)\bin\Debug\net8.0\appsettings.json
+F:\C#.Net\Assignment_5_(Employee Management System)\Assignment_5_(Employee Management System)\bin\Debug\net8.0\Assignment_5_(Employee Management System).exe
+F:\C#.Net\Assignment_5_(Employee Management System)\Assignment_5_(Employee Management System)\bin\Debug\net8.0\Assignment_5_(Employee Management System).deps.json
+F:\C#.Net\Assignment_5_(Employee Management System)\Assignment_5_(Employee Management System)\bin\Debug\net8.0\Assignment_5_(Employee Management System).runtimeconfig.json
+F:\C#.Net\Assignment_5_(Employee Management System)\Assignment_5_(Employee Management System)\bin\Debug\net8.0\Assignment_5_(Employee Management System).dll
+F:\C#.Net\Assignment_5_(Employee Management System)\Assignment_5_(Employee Management System)\bin\Debug\net8.0\Assignment_5_(Employee Management System).pdb
+F:\C#.Net\Assignment_5_(Employee Management System)\Assignment_5_(Employee Management System)\bin\Debug\net8.0\Azure.Core.dll
+F:\C#.Net\Assignment_5_(Employee Management System)\Assignment_5_(Employee Management System)\bin\Debug\net8.0\Microsoft.Azure.Cosmos.Client.dll
+F:\C#.Net\Assignment_5_(Employee Management System)\Assignment_5_(Employee Management System)\bin\Debug\net8.0\Microsoft.Azure.Cosmos.Core.dll
+F:\C#.Net\Assignment_5_(Employee Management System)\Assignment_5_(Employee Management System)\bin\Debug\net8.0\Microsoft.Azure.Cosmos.Direct.dll
+F:\C#.Net\Assignment_5_(Employee Management System)\Assignment_5_(Employee Management System)\bin\Debug\net8.0\Microsoft.Azure.Cosmos.Serialization.HybridRow.dll
+F:\C#.Net\Assignment_5_(Employee Management System)\Assignment_5_(Employee Management System)\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\C#.Net\Assignment_5_(Employee Management System)\Assignment_5_(Employee Management System)\bin\Debug\net8.0\Microsoft.Bcl.HashCode.dll
+F:\C#.Net\Assignment_5_(Employee Management System)\Assignment_5_(Employee Management System)\bin\Debug\net8.0\Microsoft.OpenApi.dll
+F:\C#.Net\Assignment_5_(Employee Management System)\Assignment_5_(Employee Management System)\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+F:\C#.Net\Assignment_5_(Employee Management System)\Assignment_5_(Employee Management System)\bin\Debug\net8.0\Newtonsoft.Json.dll
+F:\C#.Net\Assignment_5_(Employee Management System)\Assignment_5_(Employee Management System)\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\C#.Net\Assignment_5_(Employee Management System)\Assignment_5_(Employee Management System)\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\C#.Net\Assignment_5_(Employee Management System)\Assignment_5_(Employee Management System)\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\C#.Net\Assignment_5_(Employee Management System)\Assignment_5_(Employee Management System)\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+F:\C#.Net\Assignment_5_(Employee Management System)\Assignment_5_(Employee Management System)\bin\Debug\net8.0\System.Drawing.Common.dll
+F:\C#.Net\Assignment_5_(Employee Management System)\Assignment_5_(Employee Management System)\bin\Debug\net8.0\System.Memory.Data.dll
+F:\C#.Net\Assignment_5_(Employee Management System)\Assignment_5_(Employee Management System)\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+F:\C#.Net\Assignment_5_(Employee Management System)\Assignment_5_(Employee Management System)\bin\Debug\net8.0\System.Security.Permissions.dll
+F:\C#.Net\Assignment_5_(Employee Management System)\Assignment_5_(Employee Management System)\bin\Debug\net8.0\System.Windows.Extensions.dll
+F:\C#.Net\Assignment_5_(Employee Management System)\Assignment_5_(Employee Management System)\bin\Debug\net8.0\runtimes\win-x64\native\Cosmos.CRTCompat.dll
+F:\C#.Net\Assignment_5_(Employee Management System)\Assignment_5_(Employee Management System)\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Azure.Cosmos.ServiceInterop.dll
+F:\C#.Net\Assignment_5_(Employee Management System)\Assignment_5_(Employee Management System)\bin\Debug\net8.0\runtimes\win-x64\native\msvcp140.dll
+F:\C#.Net\Assignment_5_(Employee Management System)\Assignment_5_(Employee Management System)\bin\Debug\net8.0\runtimes\win-x64\native\vcruntime140.dll
+F:\C#.Net\Assignment_5_(Employee Management System)\Assignment_5_(Employee Management System)\bin\Debug\net8.0\runtimes\win-x64\native\vcruntime140_1.dll
+F:\C#.Net\Assignment_5_(Employee Management System)\Assignment_5_(Employee Management System)\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\C#.Net\Assignment_5_(Employee Management System)\Assignment_5_(Employee Management System)\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\C#.Net\Assignment_5_(Employee Management System)\Assignment_5_(Employee Management System)\obj\Debug\net8.0\Assignment_5_(Employee Management System).csproj.AssemblyReference.cache
+F:\C#.Net\Assignment_5_(Employee Management System)\Assignment_5_(Employee Management System)\obj\Debug\net8.0\Assignment_5_(Employee Management System).GeneratedMSBuildEditorConfig.editorconfig
+F:\C#.Net\Assignment_5_(Employee Management System)\Assignment_5_(Employee Management System)\obj\Debug\net8.0\Assignment_5_(Employee Management System).AssemblyInfoInputs.cache
+F:\C#.Net\Assignment_5_(Employee Management System)\Assignment_5_(Employee Management System)\obj\Debug\net8.0\Assignment_5_(Employee Management System).AssemblyInfo.cs
+F:\C#.Net\Assignment_5_(Employee Management System)\Assignment_5_(Employee Management System)\obj\Debug\net8.0\Assignment_5_(Employee Management System).csproj.CoreCompileInputs.cache
+F:\C#.Net\Assignment_5_(Employee Management System)\Assignment_5_(Employee Management System)\obj\Debug\net8.0\Assignment_5_(Employee Management System).MvcApplicationPartsAssemblyInfo.cs
+F:\C#.Net\Assignment_5_(Employee Management System)\Assignment_5_(Employee Management System)\obj\Debug\net8.0\Assignment_5_(Employee Management System).MvcApplicationPartsAssemblyInfo.cache
+F:\C#.Net\Assignment_5_(Employee Management System)\Assignment_5_(Employee Management System)\obj\Debug\net8.0\staticwebassets.build.json
+F:\C#.Net\Assignment_5_(Employee Management System)\Assignment_5_(Employee Management System)\obj\Debug\net8.0\staticwebassets.development.json
+F:\C#.Net\Assignment_5_(Employee Management System)\Assignment_5_(Employee Management System)\obj\Debug\net8.0\staticwebassets\msbuild.Assignment_5_(Employee Management System).Microsoft.AspNetCore.StaticWebAssets.props
+F:\C#.Net\Assignment_5_(Employee Management System)\Assignment_5_(Employee Management System)\obj\Debug\net8.0\staticwebassets\msbuild.build.Assignment_5_(Employee Management System).props
+F:\C#.Net\Assignment_5_(Employee Management System)\Assignment_5_(Employee Management System)\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Assignment_5_(Employee Management System).props
+F:\C#.Net\Assignment_5_(Employee Management System)\Assignment_5_(Employee Management System)\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Assignment_5_(Employee Management System).props
+F:\C#.Net\Assignment_5_(Employee Management System)\Assignment_5_(Employee Management System)\obj\Debug\net8.0\staticwebassets.pack.json
+F:\C#.Net\Assignment_5_(Employee Management System)\Assignment_5_(Employee Management System)\obj\Debug\net8.0\scopedcss\bundle\Assignment_5_(Employee Management System).styles.css
+F:\C#.Net\Assignment_5_(Employee Management System)\Assignment_5_(Employee Management System)\obj\Debug\net8.0\Assignme.8FD2A348.Up2Date
+F:\C#.Net\Assignment_5_(Employee Management System)\Assignment_5_(Employee Management System)\obj\Debug\net8.0\Assignment_5_(Employee Management System).dll
+F:\C#.Net\Assignment_5_(Employee Management System)\Assignment_5_(Employee Management System)\obj\Debug\net8.0\refint\Assignment_5_(Employee Management System).dll
+F:\C#.Net\Assignment_5_(Employee Management System)\Assignment_5_(Employee Management System)\obj\Debug\net8.0\Assignment_5_(Employee Management System).pdb
+F:\C#.Net\Assignment_5_(Employee Management System)\Assignment_5_(Employee Management System)\obj\Debug\net8.0\Assignment_5_(Employee Management System).genruntimeconfig.cache
+F:\C#.Net\Assignment_5_(Employee Management System)\Assignment_5_(Employee Management System)\obj\Debug\net8.0\ref\Assignment_5_(Employee Management System).dll
+F:\C#.Net\Assignment_5_(Employee Management System)\Assignment_5_(Employee Management System)\bin\Debug\net8.0\EPPlus.dll
+F:\C#.Net\Assignment_5_(Employee Management System)\Assignment_5_(Employee Management System)\bin\Debug\net8.0\EPPlus.Interfaces.dll
+F:\C#.Net\Assignment_5_(Employee Management System)\Assignment_5_(Employee Management System)\bin\Debug\net8.0\EPPlus.System.Drawing.dll
+F:\C#.Net\Assignment_5_(Employee Management System)\Assignment_5_(Employee Management System)\bin\Debug\net8.0\Microsoft.IO.RecyclableMemoryStream.dll
+F:\C#.Net\Assignment_5_(Employee Management System)\Assignment_5_(Employee Management System)\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+F:\C#.Net\Assignment_5_(Employee Management System)\Assignment_5_(Employee Management System)\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll

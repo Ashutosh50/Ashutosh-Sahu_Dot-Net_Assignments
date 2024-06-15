@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\C#.Net\\Assignment_5_(Employee Management System)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9651C65-2A73-44BF-BFE9-4B04B3E091FA}|Assignment_5_(Employee Management System)\\Assignment_5_(Employee Management System).csproj|f:\\c#.net\\assignment_5_(employee management system)\\assignment_5_(employee management system)\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9651C65-2A73-44BF-BFE9-4B04B3E091FA}|Assignment_5_(Employee Management System)\\Assignment_5_(Employee Management System).csproj|solutionrelative:assignment_5_(employee management system)\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9651C65-2A73-44BF-BFE9-4B04B3E091FA}|Assignment_5_(Employee Management System)\\Assignment_5_(Employee Management System).csproj|f:\\c#.net\\assignment_5_(employee management system)\\assignment_5_(employee management system)\\dto\\employeeadditionaldetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9651C65-2A73-44BF-BFE9-4B04B3E091FA}|Assignment_5_(Employee Management System)\\Assignment_5_(Employee Management System).csproj|solutionrelative:assignment_5_(employee management system)\\dto\\employeeadditionaldetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9651C65-2A73-44BF-BFE9-4B04B3E091FA}|Assignment_5_(Employee Management System)\\Assignment_5_(Employee Management System).csproj|f:\\c#.net\\assignment_5_(employee management system)\\assignment_5_(employee management system)\\services\\employeeservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9651C65-2A73-44BF-BFE9-4B04B3E091FA}|Assignment_5_(Employee Management System)\\Assignment_5_(Employee Management System).csproj|solutionrelative:assignment_5_(employee management system)\\services\\employeeservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9651C65-2A73-44BF-BFE9-4B04B3E091FA}|Assignment_5_(Employee Management System)\\Assignment_5_(Employee Management System).csproj|f:\\c#.net\\assignment_5_(employee management system)\\assignment_5_(employee management system)\\interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9651C65-2A73-44BF-BFE9-4B04B3E091FA}|Assignment_5_(Employee Management System)\\Assignment_5_(Employee Management System).csproj|solutionrelative:assignment_5_(employee management system)\\interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9651C65-2A73-44BF-BFE9-4B04B3E091FA}|Assignment_5_(Employee Management System)\\Assignment_5_(Employee Management System).csproj|f:\\c#.net\\assignment_5_(employee management system)\\assignment_5_(employee management system)\\cosmosdb\\cosmosdbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9651C65-2A73-44BF-BFE9-4B04B3E091FA}|Assignment_5_(Employee Management System)\\Assignment_5_(Employee Management System).csproj|solutionrelative:assignment_5_(employee management system)\\cosmosdb\\cosmosdbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9651C65-2A73-44BF-BFE9-4B04B3E091FA}|Assignment_5_(Employee Management System)\\Assignment_5_(Employee Management System).csproj|f:\\c#.net\\assignment_5_(employee management system)\\assignment_5_(employee management system)\\cosmosdb\\icosmosdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9651C65-2A73-44BF-BFE9-4B04B3E091FA}|Assignment_5_(Employee Management System)\\Assignment_5_(Employee Management System).csproj|solutionrelative:assignment_5_(employee management system)\\cosmosdb\\icosmosdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9651C65-2A73-44BF-BFE9-4B04B3E091FA}|Assignment_5_(Employee Management System)\\Assignment_5_(Employee Management System).csproj|f:\\c#.net\\assignment_5_(employee management system)\\assignment_5_(employee management system)\\dto\\addressdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9651C65-2A73-44BF-BFE9-4B04B3E091FA}|Assignment_5_(Employee Management System)\\Assignment_5_(Employee Management System).csproj|solutionrelative:assignment_5_(employee management system)\\dto\\addressdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9651C65-2A73-44BF-BFE9-4B04B3E091FA}|Assignment_5_(Employee Management System)\\Assignment_5_(Employee Management System).csproj|f:\\c#.net\\assignment_5_(employee management system)\\assignment_5_(employee management system)\\dto\\employeebasicdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9651C65-2A73-44BF-BFE9-4B04B3E091FA}|Assignment_5_(Employee Management System)\\Assignment_5_(Employee Management System).csproj|solutionrelative:assignment_5_(employee management system)\\dto\\employeebasicdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9651C65-2A73-44BF-BFE9-4B04B3E091FA}|Assignment_5_(Employee Management System)\\Assignment_5_(Employee Management System).csproj|f:\\c#.net\\assignment_5_(employee management system)\\assignment_5_(employee management system)\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9651C65-2A73-44BF-BFE9-4B04B3E091FA}|Assignment_5_(Employee Management System)\\Assignment_5_(Employee Management System).csproj|solutionrelative:assignment_5_(employee management system)\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeServices.cs",
+              "DocumentMoniker": "F:\\C#.Net\\Assignment_5_(Employee Management System)\\Assignment_5_(Employee Management System)\\Services\\EmployeeServices.cs",
+              "RelativeDocumentMoniker": "Assignment_5_(Employee Management System)\\Services\\EmployeeServices.cs",
+              "ToolTip": "F:\\C#.Net\\Assignment_5_(Employee Management System)\\Assignment_5_(Employee Management System)\\Services\\EmployeeServices.cs",
+              "RelativeToolTip": "Assignment_5_(Employee Management System)\\Services\\EmployeeServices.cs",
+              "ViewState": "AQIAANYBAAAAAAAAAAAgwHABAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T17:59:37.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CosmosDBService.cs",
+              "DocumentMoniker": "F:\\C#.Net\\Assignment_5_(Employee Management System)\\Assignment_5_(Employee Management System)\\CosmosDB\\CosmosDBService.cs",
+              "RelativeDocumentMoniker": "Assignment_5_(Employee Management System)\\CosmosDB\\CosmosDBService.cs",
+              "ToolTip": "F:\\C#.Net\\Assignment_5_(Employee Management System)\\Assignment_5_(Employee Management System)\\CosmosDB\\CosmosDBService.cs",
+              "RelativeToolTip": "Assignment_5_(Employee Management System)\\CosmosDB\\CosmosDBService.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAA4wDkAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T17:35:35.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "F:\\C#.Net\\Assignment_5_(Employee Management System)\\Assignment_5_(Employee Management System)\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Assignment_5_(Employee Management System)\\Controllers\\EmployeeController.cs",
+              "ToolTip": "F:\\C#.Net\\Assignment_5_(Employee Management System)\\Assignment_5_(Employee Management System)\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Assignment_5_(Employee Management System)\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAowJMAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T17:15:11.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeAdditionalDetailsDTO.cs",
+              "DocumentMoniker": "F:\\C#.Net\\Assignment_5_(Employee Management System)\\Assignment_5_(Employee Management System)\\DTO\\EmployeeAdditionalDetailsDTO.cs",
+              "RelativeDocumentMoniker": "Assignment_5_(Employee Management System)\\DTO\\EmployeeAdditionalDetailsDTO.cs",
+              "ToolTip": "F:\\C#.Net\\Assignment_5_(Employee Management System)\\Assignment_5_(Employee Management System)\\DTO\\EmployeeAdditionalDetailsDTO.cs",
+              "RelativeToolTip": "Assignment_5_(Employee Management System)\\DTO\\EmployeeAdditionalDetailsDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T01:05:24.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "F:\\C#.Net\\Assignment_5_(Employee Management System)\\Assignment_5_(Employee Management System)\\Interfaces\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "Assignment_5_(Employee Management System)\\Interfaces\\IEmployeeService.cs",
+              "ToolTip": "F:\\C#.Net\\Assignment_5_(Employee Management System)\\Assignment_5_(Employee Management System)\\Interfaces\\IEmployeeService.cs",
+              "RelativeToolTip": "Assignment_5_(Employee Management System)\\Interfaces\\IEmployeeService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwA8AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T20:14:53.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeeBasicDTO.cs",
+              "DocumentMoniker": "F:\\C#.Net\\Assignment_5_(Employee Management System)\\Assignment_5_(Employee Management System)\\DTO\\EmployeeBasicDTO.cs",
+              "RelativeDocumentMoniker": "Assignment_5_(Employee Management System)\\DTO\\EmployeeBasicDTO.cs",
+              "ToolTip": "F:\\C#.Net\\Assignment_5_(Employee Management System)\\Assignment_5_(Employee Management System)\\DTO\\EmployeeBasicDTO.cs",
+              "RelativeToolTip": "Assignment_5_(Employee Management System)\\DTO\\EmployeeBasicDTO.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAzwCwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T01:16:44.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICosmosDB.cs",
+              "DocumentMoniker": "F:\\C#.Net\\Assignment_5_(Employee Management System)\\Assignment_5_(Employee Management System)\\CosmosDB\\ICosmosDB.cs",
+              "RelativeDocumentMoniker": "Assignment_5_(Employee Management System)\\CosmosDB\\ICosmosDB.cs",
+              "ToolTip": "F:\\C#.Net\\Assignment_5_(Employee Management System)\\Assignment_5_(Employee Management System)\\CosmosDB\\ICosmosDB.cs",
+              "RelativeToolTip": "Assignment_5_(Employee Management System)\\CosmosDB\\ICosmosDB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T17:35:33.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddressDTO.cs",
+              "DocumentMoniker": "F:\\C#.Net\\Assignment_5_(Employee Management System)\\Assignment_5_(Employee Management System)\\DTO\\AddressDTO.cs",
+              "RelativeDocumentMoniker": "Assignment_5_(Employee Management System)\\DTO\\AddressDTO.cs",
+              "ToolTip": "F:\\C#.Net\\Assignment_5_(Employee Management System)\\Assignment_5_(Employee Management System)\\DTO\\AddressDTO.cs",
+              "RelativeToolTip": "Assignment_5_(Employee Management System)\\DTO\\AddressDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T01:05:17.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "F:\\C#.Net\\Assignment_5_(Employee Management System)\\Assignment_5_(Employee Management System)\\Common\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Assignment_5_(Employee Management System)\\Common\\BaseEntity.cs",
+              "ToolTip": "F:\\C#.Net\\Assignment_5_(Employee Management System)\\Assignment_5_(Employee Management System)\\Common\\BaseEntity.cs",
+              "RelativeToolTip": "Assignment_5_(Employee Management System)\\Common\\BaseEntity.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAkwC0AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T01:33:29.1Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
