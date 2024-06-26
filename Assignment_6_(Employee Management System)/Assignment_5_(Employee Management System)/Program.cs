@@ -41,6 +41,8 @@ builder.Services.AddScoped<ICosmosDB,CosmosDBService>();
 builder.Services.AddScoped<IEmployeeService,EmployeeServices>();
 builder.Services.AddScoped<BuildEmployeeBasicFilter>();
 builder.Services.AddScoped<BuildEmployeeAdditionalFilter>();
+builder.Services.AddScoped<BuildEmployeeBasicGetAll>();
+builder.Services.AddScoped<BuildEmployeeAdditionalGetAll>();
 
 var app = builder.Build();
 

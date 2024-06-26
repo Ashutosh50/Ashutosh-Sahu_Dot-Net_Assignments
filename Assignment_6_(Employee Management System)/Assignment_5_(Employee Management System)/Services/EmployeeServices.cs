@@ -624,5 +624,150 @@ namespace Assignment_5__Employee_Management_System_.Services
 
             return resObj;
         }
+
+        public async Task<Filtercriteria> FilterBasicdetailGetAllDefault(Filtercriteria filtercriteria)
+        {
+            Filtercriteria resObj = new Filtercriteria();
+            var employees = await GetAllEmployee();
+
+            if (filtercriteria.filters == null || !filtercriteria.filters.Any())
+            {
+                resObj.totalcount = employees.Count;
+                resObj.page = filtercriteria.page;
+                resObj.pageSize = filtercriteria.pageSize;
+
+                var skips = filtercriteria.pageSize * (filtercriteria.page - 1);
+                var Filteredrecords = employees.Skip(skips).Take(filtercriteria.pageSize).ToList();
+
+                foreach (var item in Filteredrecords)
+                {
+                    resObj.Employees.Add(item);
+                }
+            }
+
+            var checkfilter = filtercriteria.filters.Any(a => a.FieldName == "role");
+            var role = "";
+            if (checkfilter)
+            {
+                role = filtercriteria.filters.Find(a => a.FieldName == "role").FieldValue;
+            }
+
+            // Get all the employees
+            //var employees = await GetAllEmployee();
+
+            var filteredrecords = employees.FindAll(a => a.Role == role);
+
+            // Set total count of employees
+            resObj.totalcount = employees.Count;
+
+            // Set current page and page size
+            resObj.page = filtercriteria.page;
+            resObj.pageSize = filtercriteria.pageSize;
+
+            // Calculate the number of employees to skip
+            var skip = filtercriteria.pageSize * (filtercriteria.page - 1);
+
+            filteredrecords = filteredrecords.Skip(skip).Take(filtercriteria.pageSize).ToList();
+
+            foreach (var item in filteredrecords)
+            {
+                resObj.Employees.Add(item);
+            }
+
+            return resObj;
+        }
+
+        public async Task<FiltercriteriaAdditional> FilterAdditionaldetailGetAllDefault(FiltercriteriaAdditional filtercriteria)
+        {
+            FiltercriteriaAdditional resObj = new FiltercriteriaAdditional();
+            var employees = await GetAllEmployeeAdditionalDetails();
+
+            if (filtercriteria.filtersadd == null || !filtercriteria.filtersadd.Any())
+            {
+                resObj.totalcount = employees.Count;
+                resObj.page = filtercriteria.page;
+                resObj.pageSize = filtercriteria.pageSize;
+
+                var skips = filtercriteria.pageSize * (filtercriteria.page - 1);
+                var Filteredrecords = employees.Skip(skips).Take(filtercriteria.pageSize).ToList();
+
+                foreach (var item in Filteredrecords)
+                {
+                    resObj.EmployeesExtra.Add(item);
+                }
+            }
+
+            var checkfilter = filtercriteria.filtersadd.Any(a => a.FieldName == "employeestatus");
+            var employeestatus = "";
+            if (checkfilter)
+            {
+                employeestatus = filtercriteria.filtersadd.Find(a => a.FieldName == "employeestatus").FieldValue;
+            }
+
+            // Get all the employees
+            //var employees = await GetAllEmployee();
+
+            var filteredrecords = employees.FindAll(a => a.WorkInformation.EmployeeStatus == employeestatus);
+
+            // Set total count of employees
+            resObj.totalcount = employees.Count;
+
+            // Set current page and page size
+            resObj.page = filtercriteria.page;
+            resObj.pageSize = filtercriteria.pageSize;
+
+            // Calculate the number of employees to skip
+            var skip = filtercriteria.pageSize * (filtercriteria.page - 1);
+
+            filteredrecords = filteredrecords.Skip(skip).Take(filtercriteria.pageSize).ToList();
+
+            foreach (var item in filteredrecords)
+            {
+                resObj.EmployeesExtra.Add(item);
+            }
+
+            return resObj;
+        }
+
+        public async Task<EmployeeAdditionalDetailsModel> GetEmployeeAdditionalDetailsByBasicDetailsUIdFilterCriteria(string fieldValue)
+        {
+            var response= await _cosmosDB.GetEmployeeAdditionalDetailsByBasicDetailsUIdFilterCriteria(fieldValue);
+            var Model = new EmployeeAdditionalDetailsModel()
+            {
+                EmployeeBasicDetailsUId = response.EmployeeBasicDetailsUId,
+                AlternateEmail = response.AlternateEmail,
+                AlternateMobile = response.AlternateMobile,
+                WorkInformation = new WorkInfoModel()
+                {
+                    DesignationName = response.WorkInformation.DesignationName,
+                    DepartmentName = response.WorkInformation.DepartmentName,
+                    LocationName = response.WorkInformation.LocationName,
+                    EmployeeStatus = response.WorkInformation.EmployeeStatus,
+                    SourceOfHire = response.WorkInformation.SourceOfHire,
+                    DateOfJoining = response.WorkInformation.DateOfJoining,
+                },
+                PersonalDetails = new PersonalDetailsModel()
+                {
+                    DateOfBirth = response.PersonalDetails.DateOfBirth,
+                    Age = response.PersonalDetails.Age,
+                    Gender = response.PersonalDetails.Gender,
+                    Religion = response.PersonalDetails.Religion,
+                    Caste = response.PersonalDetails.Caste,
+                    MaritalStatus = response.PersonalDetails.MaritalStatus,
+                    BloodGroup = response.PersonalDetails.BloodGroup,
+                    Height = response.PersonalDetails.Height,
+                    Weight = response.PersonalDetails.Weight,
+                },
+                IdentityInformation = new IdentityInfoModel()
+                {
+                    PAN = response.IdentityInformation.PAN,
+                    Aadhar = response.IdentityInformation.Aadhar,
+                    Nationality = response.IdentityInformation.Nationality,
+                    PassportNumber = response.IdentityInformation.PassportNumber,
+                    PFNumber = response.IdentityInformation.PFNumber
+                }
+            };
+            return Model;
+        }
     }
 }

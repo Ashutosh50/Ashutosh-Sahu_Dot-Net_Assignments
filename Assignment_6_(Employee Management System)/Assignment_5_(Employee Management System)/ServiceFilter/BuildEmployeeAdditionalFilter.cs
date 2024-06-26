@@ -18,9 +18,11 @@ namespace Assignment_5__Employee_Management_System_.ServiceFilter
             var statusfilter = filtercriteria.filtersadd.Find(a => a.FieldName == "employeestatus");
             if (statusfilter == null)
             {
-                statusfilter = new FiltercAdditional();
-                statusfilter.FieldValue = "employeestatus";
-                statusfilter.FieldValue = "string";
+                statusfilter = new FiltercAdditional()
+                {
+                    FieldName = "employeestatus",
+                    FieldValue = "string"
+                };
                 filtercriteria.filtersadd.Add(statusfilter);
             }
             filtercriteria.filtersadd.RemoveAll(a => string.IsNullOrEmpty(a.FieldName));

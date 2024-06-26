@@ -13,5 +13,7 @@ namespace Assignment_5__Employee_Management_System_.CosmosDB
         Task<EmployeeAditionalDetailsEntity> AddEmployeeAdditional(EmployeeAditionalDetailsEntity additional);
         Task<List<EmployeeAditionalDetailsEntity>> GetallEmployeesAdditionalDetails();
         Task<EmployeeAditionalDetailsEntity> GetAdditionalDetailsById(string basicUid);
+        Task<EmployeeAditionalDetailsEntity> GetEmployeeAdditionalDetailsByBasicDetailsUIdFilterCriteria(string fieldValue);
+        // Task<List<EmployeeBasicModel>> GetAllEmployeesBasic(Filtercriteria filtercriteria);
     }
 }

@@ -2391,11 +2391,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\C#.Net\\New folder\\Assignment_5_(Employee Management System)\\Assignment_5_(Employee Management System)\\Assignment_5_(Employee Management System).csproj",
+      "projectUniqueName": "F:\\C#.Net\\New folder\\Assignment_6_(Employee Management System)\\Assignment_5_(Employee Management System)\\Assignment_5_(Employee Management System).csproj",
       "projectName": "Assignment_5_(Employee Management System)",
-      "projectPath": "F:\\C#.Net\\New folder\\Assignment_5_(Employee Management System)\\Assignment_5_(Employee Management System)\\Assignment_5_(Employee Management System).csproj",
+      "projectPath": "F:\\C#.Net\\New folder\\Assignment_6_(Employee Management System)\\Assignment_5_(Employee Management System)\\Assignment_5_(Employee Management System).csproj",
       "packagesPath": "C:\\Users\\ASHU\\.nuget\\packages\\",
-      "outputPath": "F:\\C#.Net\\New folder\\Assignment_5_(Employee Management System)\\Assignment_5_(Employee Management System)\\obj\\",
+      "outputPath": "F:\\C#.Net\\New folder\\Assignment_6_(Employee Management System)\\Assignment_5_(Employee Management System)\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

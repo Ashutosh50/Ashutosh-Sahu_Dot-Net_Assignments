@@ -1,42 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "F:\\C#.Net\\New folder\\Assignment_5_(Employee Management System)\\",
+  "WorkspaceRootPath": "F:\\C#.Net\\New folder\\Assignment_6_(Employee Management System)\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F9651C65-2A73-44BF-BFE9-4B04B3E091FA}|Assignment_5_(Employee Management System)\\Assignment_5_(Employee Management System).csproj|f:\\c#.net\\new folder\\assignment_5_(employee management system)\\assignment_5_(employee management system)\\servicefilter\\buildemployeeadditionalfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9651C65-2A73-44BF-BFE9-4B04B3E091FA}|Assignment_5_(Employee Management System)\\Assignment_5_(Employee Management System).csproj|solutionrelative:assignment_5_(employee management system)\\servicefilter\\buildemployeeadditionalfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F9651C65-2A73-44BF-BFE9-4B04B3E091FA}|Assignment_5_(Employee Management System)\\Assignment_5_(Employee Management System).csproj|f:\\c#.net\\new folder\\assignment_6_(employee management system)\\assignment_5_(employee management system)\\controllers\\week8assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9651C65-2A73-44BF-BFE9-4B04B3E091FA}|Assignment_5_(Employee Management System)\\Assignment_5_(Employee Management System).csproj|solutionrelative:assignment_5_(employee management system)\\controllers\\week8assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9651C65-2A73-44BF-BFE9-4B04B3E091FA}|Assignment_5_(Employee Management System)\\Assignment_5_(Employee Management System).csproj|f:\\c#.net\\new folder\\assignment_5_(employee management system)\\assignment_5_(employee management system)\\servicefilter\\buildemployeebasicfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9651C65-2A73-44BF-BFE9-4B04B3E091FA}|Assignment_5_(Employee Management System)\\Assignment_5_(Employee Management System).csproj|solutionrelative:assignment_5_(employee management system)\\servicefilter\\buildemployeebasicfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F9651C65-2A73-44BF-BFE9-4B04B3E091FA}|Assignment_5_(Employee Management System)\\Assignment_5_(Employee Management System).csproj|f:\\c#.net\\new folder\\assignment_6_(employee management system)\\assignment_5_(employee management system)\\entity\\addressentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9651C65-2A73-44BF-BFE9-4B04B3E091FA}|Assignment_5_(Employee Management System)\\Assignment_5_(Employee Management System).csproj|solutionrelative:assignment_5_(employee management system)\\entity\\addressentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9651C65-2A73-44BF-BFE9-4B04B3E091FA}|Assignment_5_(Employee Management System)\\Assignment_5_(Employee Management System).csproj|f:\\c#.net\\new folder\\assignment_5_(employee management system)\\assignment_5_(employee management system)\\entity\\employeeaditionaldetailsentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9651C65-2A73-44BF-BFE9-4B04B3E091FA}|Assignment_5_(Employee Management System)\\Assignment_5_(Employee Management System).csproj|solutionrelative:assignment_5_(employee management system)\\entity\\employeeaditionaldetailsentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9651C65-2A73-44BF-BFE9-4B04B3E091FA}|Assignment_5_(Employee Management System)\\Assignment_5_(Employee Management System).csproj|f:\\c#.net\\new folder\\assignment_5_(employee management system)\\assignment_5_(employee management system)\\entity\\employeebasicdetailsentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9651C65-2A73-44BF-BFE9-4B04B3E091FA}|Assignment_5_(Employee Management System)\\Assignment_5_(Employee Management System).csproj|solutionrelative:assignment_5_(employee management system)\\entity\\employeebasicdetailsentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9651C65-2A73-44BF-BFE9-4B04B3E091FA}|Assignment_5_(Employee Management System)\\Assignment_5_(Employee Management System).csproj|f:\\c#.net\\new folder\\assignment_5_(employee management system)\\assignment_5_(employee management system)\\services\\employeeservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F9651C65-2A73-44BF-BFE9-4B04B3E091FA}|Assignment_5_(Employee Management System)\\Assignment_5_(Employee Management System).csproj|f:\\c#.net\\new folder\\assignment_6_(employee management system)\\assignment_5_(employee management system)\\services\\employeeservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F9651C65-2A73-44BF-BFE9-4B04B3E091FA}|Assignment_5_(Employee Management System)\\Assignment_5_(Employee Management System).csproj|solutionrelative:assignment_5_(employee management system)\\services\\employeeservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9651C65-2A73-44BF-BFE9-4B04B3E091FA}|Assignment_5_(Employee Management System)\\Assignment_5_(Employee Management System).csproj|f:\\c#.net\\new folder\\assignment_5_(employee management system)\\assignment_5_(employee management system)\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9651C65-2A73-44BF-BFE9-4B04B3E091FA}|Assignment_5_(Employee Management System)\\Assignment_5_(Employee Management System).csproj|solutionrelative:assignment_5_(employee management system)\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F9651C65-2A73-44BF-BFE9-4B04B3E091FA}|Assignment_5_(Employee Management System)\\Assignment_5_(Employee Management System).csproj|f:\\c#.net\\new folder\\assignment_6_(employee management system)\\assignment_5_(employee management system)\\servicefilter\\buildemployeebasicfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9651C65-2A73-44BF-BFE9-4B04B3E091FA}|Assignment_5_(Employee Management System)\\Assignment_5_(Employee Management System).csproj|solutionrelative:assignment_5_(employee management system)\\servicefilter\\buildemployeebasicfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9651C65-2A73-44BF-BFE9-4B04B3E091FA}|Assignment_5_(Employee Management System)\\Assignment_5_(Employee Management System).csproj|f:\\c#.net\\new folder\\assignment_5_(employee management system)\\assignment_5_(employee management system)\\controllers\\employeemakepostandgetrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9651C65-2A73-44BF-BFE9-4B04B3E091FA}|Assignment_5_(Employee Management System)\\Assignment_5_(Employee Management System).csproj|solutionrelative:assignment_5_(employee management system)\\controllers\\employeemakepostandgetrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9651C65-2A73-44BF-BFE9-4B04B3E091FA}|Assignment_5_(Employee Management System)\\Assignment_5_(Employee Management System).csproj|f:\\c#.net\\new folder\\assignment_5_(employee management system)\\assignment_5_(employee management system)\\interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9651C65-2A73-44BF-BFE9-4B04B3E091FA}|Assignment_5_(Employee Management System)\\Assignment_5_(Employee Management System).csproj|solutionrelative:assignment_5_(employee management system)\\interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9651C65-2A73-44BF-BFE9-4B04B3E091FA}|Assignment_5_(Employee Management System)\\Assignment_5_(Employee Management System).csproj|f:\\c#.net\\new folder\\assignment_5_(employee management system)\\assignment_5_(employee management system)\\common\\credential.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9651C65-2A73-44BF-BFE9-4B04B3E091FA}|Assignment_5_(Employee Management System)\\Assignment_5_(Employee Management System).csproj|solutionrelative:assignment_5_(employee management system)\\common\\credential.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F9651C65-2A73-44BF-BFE9-4B04B3E091FA}|Assignment_5_(Employee Management System)\\Assignment_5_(Employee Management System).csproj|f:\\c#.net\\new folder\\assignment_6_(employee management system)\\assignment_5_(employee management system)\\servicefilter\\buildemployeeadditionalfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9651C65-2A73-44BF-BFE9-4B04B3E091FA}|Assignment_5_(Employee Management System)\\Assignment_5_(Employee Management System).csproj|solutionrelative:assignment_5_(employee management system)\\servicefilter\\buildemployeeadditionalfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,123 +30,68 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "BuildEmployeeAdditionalFilter.cs",
-              "DocumentMoniker": "F:\\C#.Net\\New folder\\Assignment_5_(Employee Management System)\\Assignment_5_(Employee Management System)\\ServiceFilter\\BuildEmployeeAdditionalFilter.cs",
-              "RelativeDocumentMoniker": "Assignment_5_(Employee Management System)\\ServiceFilter\\BuildEmployeeAdditionalFilter.cs",
-              "ToolTip": "F:\\C#.Net\\New folder\\Assignment_5_(Employee Management System)\\Assignment_5_(Employee Management System)\\ServiceFilter\\BuildEmployeeAdditionalFilter.cs",
-              "RelativeToolTip": "Assignment_5_(Employee Management System)\\ServiceFilter\\BuildEmployeeAdditionalFilter.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAmwAoAAABoAAAA",
+              "DocumentIndex": 1,
+              "Title": "AddressEntity.cs",
+              "DocumentMoniker": "F:\\C#.Net\\New folder\\Assignment_6_(Employee Management System)\\Assignment_5_(Employee Management System)\\Entity\\AddressEntity.cs",
+              "RelativeDocumentMoniker": "Assignment_5_(Employee Management System)\\Entity\\AddressEntity.cs",
+              "ToolTip": "F:\\C#.Net\\New folder\\Assignment_6_(Employee Management System)\\Assignment_5_(Employee Management System)\\Entity\\AddressEntity.cs",
+              "RelativeToolTip": "Assignment_5_(Employee Management System)\\Entity\\AddressEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T05:28:49.704Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-26T09:51:13.416Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BuildEmployeeBasicFilter.cs",
-              "DocumentMoniker": "F:\\C#.Net\\New folder\\Assignment_5_(Employee Management System)\\Assignment_5_(Employee Management System)\\ServiceFilter\\BuildEmployeeBasicFilter.cs",
-              "RelativeDocumentMoniker": "Assignment_5_(Employee Management System)\\ServiceFilter\\BuildEmployeeBasicFilter.cs",
-              "ToolTip": "F:\\C#.Net\\New folder\\Assignment_5_(Employee Management System)\\Assignment_5_(Employee Management System)\\ServiceFilter\\BuildEmployeeBasicFilter.cs",
-              "RelativeToolTip": "Assignment_5_(Employee Management System)\\ServiceFilter\\BuildEmployeeBasicFilter.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAAAmAAAA",
+              "DocumentIndex": 0,
+              "Title": "Week8Assignment.cs",
+              "DocumentMoniker": "F:\\C#.Net\\New folder\\Assignment_6_(Employee Management System)\\Assignment_5_(Employee Management System)\\Controllers\\Week8Assignment.cs",
+              "RelativeDocumentMoniker": "Assignment_5_(Employee Management System)\\Controllers\\Week8Assignment.cs",
+              "ToolTip": "F:\\C#.Net\\New folder\\Assignment_6_(Employee Management System)\\Assignment_5_(Employee Management System)\\Controllers\\Week8Assignment.cs",
+              "RelativeToolTip": "Assignment_5_(Employee Management System)\\Controllers\\Week8Assignment.cs",
+              "ViewState": "AQIAAIgAAAAAAAAAAAAwwMsAAABlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T05:28:20.58Z",
+              "WhenOpened": "2024-06-26T00:03:24.159Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "EmployeeAditionalDetailsEntity.cs",
-              "DocumentMoniker": "F:\\C#.Net\\New folder\\Assignment_5_(Employee Management System)\\Assignment_5_(Employee Management System)\\Entity\\EmployeeAditionalDetailsEntity.cs",
-              "RelativeDocumentMoniker": "Assignment_5_(Employee Management System)\\Entity\\EmployeeAditionalDetailsEntity.cs",
-              "ToolTip": "F:\\C#.Net\\New folder\\Assignment_5_(Employee Management System)\\Assignment_5_(Employee Management System)\\Entity\\EmployeeAditionalDetailsEntity.cs",
-              "RelativeToolTip": "Assignment_5_(Employee Management System)\\Entity\\EmployeeAditionalDetailsEntity.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAswB8AAAA3AAAA",
+              "Title": "EmployeeServices.cs",
+              "DocumentMoniker": "F:\\C#.Net\\New folder\\Assignment_6_(Employee Management System)\\Assignment_5_(Employee Management System)\\Services\\EmployeeServices.cs",
+              "RelativeDocumentMoniker": "Assignment_5_(Employee Management System)\\Services\\EmployeeServices.cs",
+              "ToolTip": "F:\\C#.Net\\New folder\\Assignment_6_(Employee Management System)\\Assignment_5_(Employee Management System)\\Services\\EmployeeServices.cs",
+              "RelativeToolTip": "Assignment_5_(Employee Management System)\\Services\\EmployeeServices.cs",
+              "ViewState": "AQIAAO8CAAAAAAAAAAAmwAQDAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T04:51:36.542Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "EmployeeBasicDetailsEntity.cs",
-              "DocumentMoniker": "F:\\C#.Net\\New folder\\Assignment_5_(Employee Management System)\\Assignment_5_(Employee Management System)\\Entity\\EmployeeBasicDetailsEntity.cs",
-              "RelativeDocumentMoniker": "Assignment_5_(Employee Management System)\\Entity\\EmployeeBasicDetailsEntity.cs",
-              "ToolTip": "F:\\C#.Net\\New folder\\Assignment_5_(Employee Management System)\\Assignment_5_(Employee Management System)\\Entity\\EmployeeBasicDetailsEntity.cs",
-              "RelativeToolTip": "Assignment_5_(Employee Management System)\\Entity\\EmployeeBasicDetailsEntity.cs",
-              "ViewState": "AQIAACoAAAAAAAAAAAA2wDYAAAAyAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T03:36:48.308Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Credential.cs",
-              "DocumentMoniker": "F:\\C#.Net\\New folder\\Assignment_5_(Employee Management System)\\Assignment_5_(Employee Management System)\\Common\\Credential.cs",
-              "RelativeDocumentMoniker": "Assignment_5_(Employee Management System)\\Common\\Credential.cs",
-              "ToolTip": "F:\\C#.Net\\New folder\\Assignment_5_(Employee Management System)\\Assignment_5_(Employee Management System)\\Common\\Credential.cs",
-              "RelativeToolTip": "Assignment_5_(Employee Management System)\\Common\\Credential.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T01:14:24.824Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "EmployeeMakePostAndGetRequest.cs",
-              "DocumentMoniker": "F:\\C#.Net\\New folder\\Assignment_5_(Employee Management System)\\Assignment_5_(Employee Management System)\\Controllers\\EmployeeMakePostAndGetRequest.cs",
-              "RelativeDocumentMoniker": "Assignment_5_(Employee Management System)\\Controllers\\EmployeeMakePostAndGetRequest.cs",
-              "ToolTip": "F:\\C#.Net\\New folder\\Assignment_5_(Employee Management System)\\Assignment_5_(Employee Management System)\\Controllers\\EmployeeMakePostAndGetRequest.cs",
-              "RelativeToolTip": "Assignment_5_(Employee Management System)\\Controllers\\EmployeeMakePostAndGetRequest.cs",
-              "ViewState": "AQIAACsAAAAAAAAAAAAuwD4AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T01:08:27.371Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "EmployeeController.cs",
-              "DocumentMoniker": "F:\\C#.Net\\New folder\\Assignment_5_(Employee Management System)\\Assignment_5_(Employee Management System)\\Controllers\\EmployeeController.cs",
-              "RelativeDocumentMoniker": "Assignment_5_(Employee Management System)\\Controllers\\EmployeeController.cs",
-              "ToolTip": "F:\\C#.Net\\New folder\\Assignment_5_(Employee Management System)\\Assignment_5_(Employee Management System)\\Controllers\\EmployeeController.cs",
-              "RelativeToolTip": "Assignment_5_(Employee Management System)\\Controllers\\EmployeeController.cs",
-              "ViewState": "AQIAAMAAAAAAAAAAAAAmwNAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-15T22:19:46.356Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-25T23:54:59.565Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "EmployeeServices.cs",
-              "DocumentMoniker": "F:\\C#.Net\\New folder\\Assignment_5_(Employee Management System)\\Assignment_5_(Employee Management System)\\Services\\EmployeeServices.cs",
-              "RelativeDocumentMoniker": "Assignment_5_(Employee Management System)\\Services\\EmployeeServices.cs",
-              "ToolTip": "F:\\C#.Net\\New folder\\Assignment_5_(Employee Management System)\\Assignment_5_(Employee Management System)\\Services\\EmployeeServices.cs",
-              "RelativeToolTip": "Assignment_5_(Employee Management System)\\Services\\EmployeeServices.cs",
-              "ViewState": "AQIAAEoCAAAAAAAAAAAqwFMCAABbAAAA",
+              "Title": "BuildEmployeeAdditionalFilter.cs",
+              "DocumentMoniker": "F:\\C#.Net\\New folder\\Assignment_6_(Employee Management System)\\Assignment_5_(Employee Management System)\\ServiceFilter\\BuildEmployeeAdditionalFilter.cs",
+              "RelativeDocumentMoniker": "Assignment_5_(Employee Management System)\\ServiceFilter\\BuildEmployeeAdditionalFilter.cs",
+              "ToolTip": "F:\\C#.Net\\New folder\\Assignment_6_(Employee Management System)\\Assignment_5_(Employee Management System)\\ServiceFilter\\BuildEmployeeAdditionalFilter.cs",
+              "RelativeToolTip": "Assignment_5_(Employee Management System)\\ServiceFilter\\BuildEmployeeAdditionalFilter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-17T10:47:18.294Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-25T23:54:16.563Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IEmployeeService.cs",
-              "DocumentMoniker": "F:\\C#.Net\\New folder\\Assignment_5_(Employee Management System)\\Assignment_5_(Employee Management System)\\Interfaces\\IEmployeeService.cs",
-              "RelativeDocumentMoniker": "Assignment_5_(Employee Management System)\\Interfaces\\IEmployeeService.cs",
-              "ToolTip": "F:\\C#.Net\\New folder\\Assignment_5_(Employee Management System)\\Assignment_5_(Employee Management System)\\Interfaces\\IEmployeeService.cs",
-              "RelativeToolTip": "Assignment_5_(Employee Management System)\\Interfaces\\IEmployeeService.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAkwBsAAABcAAAA",
+              "DocumentIndex": 3,
+              "Title": "BuildEmployeeBasicFilter.cs",
+              "DocumentMoniker": "F:\\C#.Net\\New folder\\Assignment_6_(Employee Management System)\\Assignment_5_(Employee Management System)\\ServiceFilter\\BuildEmployeeBasicFilter.cs",
+              "RelativeDocumentMoniker": "Assignment_5_(Employee Management System)\\ServiceFilter\\BuildEmployeeBasicFilter.cs",
+              "ToolTip": "F:\\C#.Net\\New folder\\Assignment_6_(Employee Management System)\\Assignment_5_(Employee Management System)\\ServiceFilter\\BuildEmployeeBasicFilter.cs",
+              "RelativeToolTip": "Assignment_5_(Employee Management System)\\ServiceFilter\\BuildEmployeeBasicFilter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-17T10:47:08.656Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-25T22:00:37.277Z"
             }
           ]
         }

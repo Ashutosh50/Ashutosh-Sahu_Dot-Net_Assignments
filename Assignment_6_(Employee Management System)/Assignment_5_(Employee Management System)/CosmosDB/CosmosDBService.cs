@@ -61,5 +61,11 @@ namespace Assignment_5__Employee_Management_System_.CosmosDB
            return response;
 
         }
+
+        public async Task<EmployeeAditionalDetailsEntity> GetEmployeeAdditionalDetailsByBasicDetailsUIdFilterCriteria(string fieldValue)
+        {
+            var response = _container.GetItemLinqQueryable<EmployeeAditionalDetailsEntity>(true).Where(a => a.EmployeeBasicDetailsUId == fieldValue && a.Active == true && a.Archived == false && a.DocumentType == Credential.Adoctype).FirstOrDefault();
+            return response;
+        }
     }
 }

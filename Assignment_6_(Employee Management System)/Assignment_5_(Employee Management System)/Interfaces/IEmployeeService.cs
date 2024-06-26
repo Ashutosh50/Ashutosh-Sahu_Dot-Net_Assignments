@@ -1,5 +1,6 @@
 ﻿using Assignment_5__Employee_Management_System_.DTO;
 using Assignment_5__Employee_Management_System_.Entity;
+using Microsoft.AspNetCore.Mvc;
 
 namespace Assignment_5__Employee_Management_System_.Interfaces
 {
@@ -26,5 +27,8 @@ namespace Assignment_5__Employee_Management_System_.Interfaces
         Task<EmployeeAdditionalDetailsModel> GetEmployeeAdditionalByIdMakeGetRequest(string uid);
         Task<EmployeeAdditionalDetailsModel> UpdateEmployeeAdditionalByMakePostRequest(EmployeeAdditionalDetailsModel employeeAdditionalDetailsModel);
         Task<FiltercriteriaAdditional> FilterbyPagenationAdditional(FiltercriteriaAdditional additional);
+        Task<Filtercriteria> FilterBasicdetailGetAllDefault(Filtercriteria filtercriteria);
+        Task<FiltercriteriaAdditional> FilterAdditionaldetailGetAllDefault(FiltercriteriaAdditional filtercriteria);
+        Task<EmployeeAdditionalDetailsModel> GetEmployeeAdditionalDetailsByBasicDetailsUIdFilterCriteria(string fieldValue);
     }
 }
